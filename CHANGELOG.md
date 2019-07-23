@@ -38,7 +38,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - inital release after forking from temando/serverless-openapi-documentation
 
 
-[Unreleased]: https://github.com/conqa/serverless-openapi-documentation/compare/v0.0.0...HEAD
+[Unreleased]: https://github.com/conqa/serverless-openapi-documentation/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/conqa/serverless-openapi-documentation/compare/v0.0.0...v1.1.0
 [0.0.0]: https://github.com/conqa/serverless-openapi-documentation/compare/v1.1.0...v0.0.0
 [1.1.0]: https://github.com/conqa/serverless-openapi-documentation/compare/v1.0.4...v1.1.0
 [1.0.4]: https://github.com/conqa/serverless-openapi-documentation/compare/v1.0.3...v1.0.4
