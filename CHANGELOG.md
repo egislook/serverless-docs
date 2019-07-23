@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.1.1][] - 2019-07-23
+### Added
+- Support for tags
+
 ## [1.1.0] - 2019-05-09
 ### Added
 - Support for securitySchemes and security #15
@@ -38,7 +42,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - inital release after forking from temando/serverless-openapi-documentation
 
 
-[Unreleased]: https://github.com/conqa/serverless-openapi-documentation/compare/v1.1.0...HEAD
+[Unreleased]: https://github.com/conqa/serverless-openapi-documentation/compare/v1.1.1...HEAD
+[1.1.1]: https://github.com/conqa/serverless-openapi-documentation/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/conqa/serverless-openapi-documentation/compare/v0.0.0...v1.1.0
 [0.0.0]: https://github.com/conqa/serverless-openapi-documentation/compare/v1.1.0...v0.0.0
 [1.1.0]: https://github.com/conqa/serverless-openapi-documentation/compare/v1.0.4...v1.1.0
