@@ -43,7 +43,8 @@ export class DefinitionGenerator {
       models,
       security,
       securitySchemes,
-      servers
+      servers,
+      tags
     } = this.config;
 
     _.merge(this.definition, {
@@ -65,6 +66,9 @@ export class DefinitionGenerator {
 
     if (servers) {
       this.definition.servers = servers;
+    }
+    if (tags) {
+      this.definition.tags = tags;
     }
 
     this.definition.components.schemas = await parseModels(models, this.root);

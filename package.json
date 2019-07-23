@@ -1,6 +1,6 @@
 {
-  "name": "@conqa/serverless-openapi-documentation",
-  "version": "1.1.0",
+  "name": "serverless-docs",
+  "version": "0.0.0",
   "description": "Serverless 1.0 plugin to generate OpenAPI V3 documentation from serverless configuration",
   "main": "index.js",
   "engines": {
@@ -9,13 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/conqa/serverless-openapi-documentation.git"
+    "url": "https://github.com/egislook/serverless-openapi-documentation.git"
   },
-  "bugs": "https://github.com/conqa/serverless-openapi-documentation/issues",
+  "bugs": "https://github.com/egislook/serverless-openapi-documentation/issues",
   "author": "Abilio Henrique <abilio.henrique@temando.com>",
   "contributors": [
     "Abilio Henrique <abilio.henrique@temando.com>",
-    "nfour <novus.nfour@gmail.com>"
+    "nfour <novus.nfour@gmail.com>",
+    "Egis <look.egis@gmail.com"
   ],
   "keywords": [
     "OpenAPI",
